@@ -1,4 +1,4 @@
-package designprinciples.srp;
+package designprinciples.ocp;
 
 public class NetBanking implements PaymentProcessor{
     @Override
